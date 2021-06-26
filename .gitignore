@@ -1,0 +1,14 @@
+*.DStore
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.vrb
+*.nav
+.Rproj.user
+.Rhistory
+
+record-linkage-tutorial.Rproj
+05-bayes/lambda-20180129-140144.txt
