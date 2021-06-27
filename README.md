@@ -54,7 +54,7 @@ While there have been many Bayesian record linkage methods proposed in the liter
 Slide Deck: 
 
 
-### III. Demo and Questions
+### IV. Demo and Questions
 
 Speaker: Rebecca C. Steorts
 
