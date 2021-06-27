@@ -2,7 +2,7 @@
 
 ## Speakers
 
-Rebecca C. Steorts, Assistant Professor
+Rebecca C. Steorts, Assistant Professor,
 Departments of Statistical Science and Computer Science,
 Duke University 
 https://resteorts.github.io/
