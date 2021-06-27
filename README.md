@@ -42,7 +42,7 @@ Speaker: Rebecca C. Steorts
 
 In this part of the workshop, I will review the terminology used in entity resolution. In addition, I will describe computational speeds ups used that are known as blocking. Next, I will review the most commonly used entity resolution methods in the literature. I will review evaluation metrics that are used. Finally, I will present a small example to illustrate how such evaluation metrics are used in practice and comparisons can be made to existing methods in the literature. 
 
-Slide Deck: 
+Slide Deck: https://github.com/resteorts/bayesian-record-linkage/blob/main/02-deep-dive/02-deep-dive.pdf
 
 
 ### III. End to End Entity Resolution
