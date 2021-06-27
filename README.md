@@ -51,7 +51,7 @@ Speaker: Rebecca C. Steorts
 
 While there have been many Bayesian record linkage methods proposed in the literature, none of these methods scale to industrial sized data sets. In fact, none of these methods scale to data sets beyond 10,000 records using a joint model to our knowledge. In this section of the workshop, I introduce distributed methods for Bayesian entity resolution (dblink). More specifically, we give an overview of a recent method of Marchant, et. al (2021), which proposes the first scalable and distributed end-to-end Bayesian model for entity resolution, which propagates uncertainty in blocking, matching, and merging. In addition, several contributions are made including: (i) incorporating probabilistic blocking directly into the model through auxiliary partitions; (ii) support for missing values; (iii) a partially-collapsed Gibbs samper; and (iv) a novel perturbation sampling algorithm  that enables fast updates of the entity attributes. In this workshop, we will present dblink in a more simple setting for intuition, and provide intuition for computational speed ups. Finally, I illustrate experimental results on dblink, which show that d-blink can achieve significant efficiency gains—in excess of 200×—when compared to existing methodology. 
 
-Slide Deck: 
+Slide Deck: https://github.com/resteorts/bayesian-record-linkage/blob/main/03-distributed-bayes/03-dblink.pdf
 
 
 ### IV. Demo and Questions
