@@ -60,4 +60,6 @@ Speaker: Rebecca C. Steorts
 
 In this part of the workshop, I will provide a demo of dblink. 
 
+Slide Deck: https://github.com/resteorts/bayesian-record-linkage/blob/main/04-dblink-demo/07-dblink-demo.pdf
+
 Steorts has been funded by an NSF CAREER Award and a Sloan Research Award. The ideas of this tutorial are of the researchers and not of the funding organization. 
