@@ -34,7 +34,7 @@ Speaker: Rebecca C. Steorts
 
 Very often information about social entities is scattered across multiple databases.  Combining that information into one database can result in enormous benefits for analysis, resulting in richer and more reliable conclusions.  Among the types of questions that have been, and can be, addressed by combining information include: How accurate are census enumerations? How many people were victims of war crimes in human rights conflicts? In most practical applications, however, analysts cannot simply link records across databases based on unique identifiers, such as social security numbers, either because they are not a part of some databases or are not available due to privacy concerns.  In such cases, analysts need to use methods from statistical and computational science known as entity resolution (record linkage or de-duplication) to proceed with analysis.  Entity resolution is not only a crucial task for social science and industrial applications, but is a challenging statistical and computational problem itself. In this talk, I provide an overview and introduction to entity resolution. I discuss collaborations throughout my career to date, highlighting case studies, and impactful insights. 
 
-Slide Deck: 
+Slide Deck: https://github.com/resteorts/bayesian-record-linkage/blob/main/01-overview-er/01-overview-er.pdf
 
 ### II. A Deep Dive Into Entity Resolution 
 
